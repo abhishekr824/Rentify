@@ -39,7 +39,7 @@ Rentify is a web application designed to simplify the process of finding rental 
 ## Installation
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/your-username/rentify.git
+    git clone https://github.com/abhishekr824/Rentify
     cd rentify
     ```
 
